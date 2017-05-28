@@ -12,7 +12,7 @@ review/helpfulness: 1/1
 review/score: 5.0
 review/time: 1303862400
 review/summary: Good Quality Dog Food
-review/text: I have bought several of the Vitality canned dog food products and have found them all to be of good quality.
+review/text: I have bought several of the Vitality canned dog food products and have found them all to be of good quality.\n
 
 Database Table Schema:-
 +-------------+--------------+------+-----+---------+-------+
